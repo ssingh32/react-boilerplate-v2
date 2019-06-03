@@ -1,3 +1,10 @@
-#Expensify
+#React Boilerplate Application
 
-Manage budgets by adding, removing, searching, and editing expenses
+Preloaded with 
+- Webpack
+- React Router
+- Authentication
+- React
+- Redux
+
++ More
